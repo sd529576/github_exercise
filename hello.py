@@ -11,3 +11,5 @@ def hello():
 def goodbye():
     print("Good Bye")
 >>>>>>> parent of 9870c5c... hi
+
+print("hello world")
